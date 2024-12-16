@@ -4,8 +4,7 @@ public class ejemplo {
 
         System.out.println("Hola");
         System.out.println("Esto es para prueba");
-
-        System.out.println("Añadimos esto del segundo equipo");
+        System.out.println("Un nuevo mensaje porque el anterior video se me borro:)");
 
     }
 }
